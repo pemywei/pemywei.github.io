@@ -1,2 +1,3 @@
 ## Xiangpeng Wei (魏相鹏)
-I am a 4th-year PHD candidate at Institute of Information Engineering, Chinese Academy of Sciences, Beijing, China.
+I am a 4th-year PHD candidate at Institute of Information Engineering, CAS, Beijing, China.
+My research interests include Machine Translation, Natural Language Generation and Deep Learning. Currently, I focus on semantic-augmentation for NMT and universal cross-lingual representation learning.
